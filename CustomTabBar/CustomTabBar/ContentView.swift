@@ -9,29 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        // The main container for the tabs
-        TabView {
-            
-            // Tab 1: Main Scrollable Content
-            MainScrollStoryView()
-                .tabItem {
-                    Label("Home", systemImage: "doc.text.fill")
-                }
-            
-            // Tab 2: Profile/User View
-            ProfileView()
-                .tabItem {
-                    Label("Profile", systemImage: "person.circle.fill")
-                }
-            
-            // Tab 3: Settings View
-            SettingsView()
-                .tabItem {
-                    Label("Settings", systemImage: "gearshape.fill")
-                }
-        }
-        // Optional: Change the accent color of the active tab
-        .accentColor(.blue)
+        CustomStyledTabView()
     }
 }
 
