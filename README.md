@@ -1,5 +1,5 @@
-# FlightLiveAcitvity
-Sample app that shows how to use live activities. This is the basecode for following post [Dynamic Island: iOS Live Activities Guide](https://javios.eu/swift/dynamic-island-ios-live-activities-guide/)
+# CustomTabBar
+Sample app that shows how to customize TabBar in SwiftUI. This is the basecode for following post [Dynamic Island: iOS Live Activities Guide](https://javios.eu/swift/dynamic-island-ios-live-activities-guide/)
 
 ## Review
 <img src="media/review.gif" alt="Playground on action" width="300">
@@ -7,8 +7,8 @@ Sample app that shows how to use live activities. This is the basecode for follo
 
 ## Requirements
 
-- **Xcode 15.0 or later**
-- **iOS 16.0 or later**
+- **Xcode 26.2 or later**
+- **iOS 17.0 or later**
 
 ## 🔖 License
 
