@@ -1,5 +1,6 @@
 # CustomTabBar
-Sample app that shows how to customize TabBar in SwiftUI. This is the basecode for following post [Dynamic Island: iOS Live Activities Guide](https://javios.eu/swift/dynamic-island-ios-live-activities-guide/)
+Sample app that shows how to customize TabBar in SwiftUI. This is the basecode for following post [Customized TabBar in SwiftUI](https://javios.eu/swiftui/customized-tabbar-in-swiftui/)
+
 
 ## Review
 <img src="media/review.gif" alt="Playground on action" width="300">
